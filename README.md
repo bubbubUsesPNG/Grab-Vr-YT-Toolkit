@@ -8,7 +8,7 @@ Crediting is not needed but would like to see it.
 Also last thing, files might be named somthing else,
 I have NO idea what there actually called.
 
-# Inclued
+# includes
 
 * Grab-Sounds
 <img width="527" height="399" alt="Image" src="https://github.com/user-attachments/assets/f9ec880e-5908-4d51-87e2-d34876c5a91b" />
