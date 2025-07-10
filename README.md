@@ -15,6 +15,11 @@ I have NO idea what there actually called.
   
   more soon...
 
+# Coming Soon
+
+* Music
+* Tutorials
+
 # Credits
 
 * Bubbub-Main_Creator_Of_The_Toolkit
