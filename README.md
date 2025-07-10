@@ -9,16 +9,16 @@ I have NO idea what there actually called.
 # Inclued
 
 * Grab-Sounds
-* Grab-Blocks
-* Grab-ColoredBlock
 * Loopable Ice sfx
-  
   more soon...
 
 # Coming Soon
 
 * Music
 * Tutorials
+* Grab-Sounds
+* Grab-Blocks
+* Grab-ColoredBlock
 
 # Credits
 
