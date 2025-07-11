@@ -37,5 +37,6 @@ I have NO idea what there actually called.
 
 * Bubbub-Main_Creator_Of_The_Toolkit
 * Slin-Creator_Of_The_Game
+* My discord:https://discord.gg/5nvD28Zhej
 
   # *!! AGAIN CREDITING IS NOT NEEDED BUT IT WOULD BE NICE AND ALSO AUDIO CLIPS ARE VERY SMALL !!*
